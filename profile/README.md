@@ -21,6 +21,6 @@ The essence of CopenhagenJS lies in creating a space where members can come toge
 Join us as we explore the ever-evolving landscape of JavaScript and web technologies in a warm and inviting atmosphere.
 
 Contact us at <a href="mailto:copenhagenjs.community@gmail.com">copenhagenjs.community@gmail.com</a>
-Join us on Meetup <a href="https://www.meetup.com/copenhagenjs/">CopenhagenJS meetup group</a>
+Join us on Meetup <a href="https://www.meetup.com/copenhagenjs/" target="_blank">CopenhagenJS meetup group</a>
 
 ![1692135055623](https://github.com/copenhagenjs-dk/.github/assets/10253713/0ac1af6a-dc26-45bf-9340-17bd2f393202)
